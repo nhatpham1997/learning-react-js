@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Phạm Quang Nhật",
+        "tel" : "0397060853",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Taylor Swift",
+        "tel" : "0977255213",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Adam Lavin",
+        "tel" : "0977777777",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Alibaba",
+        "tel" : "0988888888",
+        "permission":2
+    },
+    {
+        "id":5,
+        "name":"Maroon5",
+        "tel" : "0956565656",
+        "permission":3
+    }
+]
